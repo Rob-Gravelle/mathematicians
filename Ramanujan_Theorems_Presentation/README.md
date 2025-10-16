@@ -24,8 +24,7 @@ See [Introduction to Ramanujan](ramanujan/introduction_ramanujan.md) for a biogr
 ## Getting Started
 - Clone: `git clone https://github.com/[your-username]/mathematicians.git`
 - Install: `pip install -r requirements.txt`
-- Run `.ipynb` files in Jupyter, view `.html` files in a browser, or compile with `python scripts/compile_notebooks.py`.
-- Interactive access: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/[your-username]/mathematicians/HEAD)
+- Run `.ipynb` files in Jupyter, view `.html` files in a browser, or compile with `python scripts/compile_notebooks.py`
 
 ## Future Plans
 Additional mathematicians (e.g., Gauss, Turing) will be added.
