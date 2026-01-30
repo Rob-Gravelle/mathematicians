@@ -9,7 +9,7 @@ Each mathematician’s section includes:
 - **Code Implementations**: Python scripts using mpmath, SymPy, and matplotlib.
 - **Visualizations**: Plots illustrating mathematical patterns.
 
-The first series explores **Srinivasa Ramanujan**. View the [web-based landing page](html/index.html) for a visual overview.
+The first series explores **Srinivasa Ramanujan**. View the [web-based landing page](https://rob-gravelle.github.io/mathematicians/) for a visual overview.
 
 ## Srinivasa Ramanujan Series
 See [Introduction to Ramanujan](ramanujan/introduction_ramanujan.md) for a biography and links to his contributions.
@@ -22,7 +22,7 @@ See [Introduction to Ramanujan](ramanujan/introduction_ramanujan.md) for a biogr
 5. **Mock Theta Functions** ([Notebook](ramanujan/05_Mock_Theta_Functions.ipynb) | [HTML](html/05_Mock_Theta_Functions.html)): Implements mock theta series.
 
 ## Getting Started
-- Clone: `git clone https://github.com/[your-username]/mathematicians.git`
+- Clone: `git clone https://github.com/Rob-Gravelle/mathematicians.git`
 - Install: `pip install -r requirements.txt`
 - Run `.ipynb` files in Jupyter, view `.html` files in a browser, or compile with `python scripts/compile_notebooks.py`
 
@@ -30,4 +30,5 @@ See [Introduction to Ramanujan](ramanujan/introduction_ramanujan.md) for a biogr
 Additional mathematicians (e.g., Gauss, Turing) will be added.
 
 ## License
+
 MIT License. The Ramanujan portrait is AI-generated.
